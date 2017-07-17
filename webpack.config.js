@@ -25,6 +25,7 @@ const config = {
       template: `${APP_DIR}/index.html`,
       minify: {
         collapseWhitespace: true,
+        minifyJS: { mangle: false },
       },
     }),
     new plugins.Favicons({
