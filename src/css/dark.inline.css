@@ -1,0 +1,44 @@
+html {
+  background: #222;
+}
+
+body {
+  color: #aaa;
+}
+
+#galaxy-test {
+  color: #aaa;
+  background: #222;
+}
+
+#mode-button {
+  color: #777;
+  background: #222;
+  border: 1px solid #aaa;
+}
+
+.header {
+  box-shadow: 0 10rem 0 -9.9rem #aaa;
+}
+
+iframe {
+  border: 1px solid #444;
+}
+
+input[type="text"] {
+  border: 1px solid #444;
+}
+
+.button.button-primary {
+  color: #ccc;
+  background-color: #2a96b7;
+  border-color: #2a96b7;
+}
+
+.customize {
+  box-shadow: 0 -3rem 0 -2.9rem #444;
+}
+
+::selection {
+  background: rgba(80,80,80,0.6);
+}

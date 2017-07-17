@@ -1,0 +1,44 @@
+html {
+  background: #fff;
+}
+
+body {
+  color: #222;
+}
+
+#galaxy-test {
+  color: #222;
+  background: #fff;
+}
+
+#mode-button {
+  color: #555;
+  background: #fff;
+  border: 1px solid #222;
+}
+
+.header {
+  box-shadow: 0 10rem 0 -9.9rem #222;
+}
+
+iframe {
+  border: 1px solid #D1D1D1;
+}
+
+input[type="text"] {
+  border: 1px solid #D1D1D1;
+}
+
+.button.button-primary {
+  color: #fff;
+  background-color: #33C3F0;
+  border-color: #33C3F0;
+}
+
+.customize {
+  box-shadow: 0 -3rem 0 -2.9rem #D1D1D1;
+}
+
+::selection {
+  background: rgba(210,210,210,0.6);
+}

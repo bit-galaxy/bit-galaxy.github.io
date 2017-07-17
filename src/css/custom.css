@@ -1,0 +1,55 @@
+body {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+.section {
+  padding: 8rem 0 7rem;
+  text-align: center;
+}
+
+.header {
+  box-shadow: 0 10rem 0 -9.9rem #222;
+}
+
+#mode-container {
+  position: absolute;
+  width: 100%;
+}
+
+#mode-button {
+  background: #fff;
+  border: 1px solid #222;
+  margin: 5.1rem 0 0;
+}
+
+.demo-input {
+  padding: 1rem 0 0;
+}
+
+iframe {
+  border-radius: 4px;
+  border: 1px solid #D1D1D1;
+  overflow: hidden;
+}
+
+.descriptor {
+  color: #888;
+}
+
+.customize {
+  margin: 3rem 0 2rem;
+  padding: 2rem 0 0;
+  box-shadow: 0 -3rem 0 -2.9rem #D1D1D1;
+};
+
+::selection {
+  background: rgba(210,210,210,0.6);
+}
+
+#style {
+  display: none;
+}
