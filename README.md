@@ -1,3 +1,3 @@
-# open-stream-visualizers.github.io
+# bit-galaxy.github.io
 
-[Go to the site now](https://open-stream-visualizers.github.io/ "Open Stream Visualizers")
+[Go to the site now](https://bit-galaxy.github.io/ "Bit Galaxy")
